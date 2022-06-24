@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/mars_1/static/css/main.c2a44f7a.chunk.css",
+    "main.js": "/mars_1/static/js/main.977067d5.chunk.js",
+    "main.js.map": "/mars_1/static/js/main.977067d5.chunk.js.map",
+    "runtime-main.js": "/mars_1/static/js/runtime-main.7b0e59d5.js",
+    "runtime-main.js.map": "/mars_1/static/js/runtime-main.7b0e59d5.js.map",
+    "static/js/2.5cbfb817.chunk.js": "/mars_1/static/js/2.5cbfb817.chunk.js",
+    "static/js/2.5cbfb817.chunk.js.map": "/mars_1/static/js/2.5cbfb817.chunk.js.map",
+    "static/js/3.1330cdcc.chunk.js": "/mars_1/static/js/3.1330cdcc.chunk.js",
+    "static/js/3.1330cdcc.chunk.js.map": "/mars_1/static/js/3.1330cdcc.chunk.js.map",
+    "index.html": "/mars_1/index.html",
+    "static/css/main.c2a44f7a.chunk.css.map": "/mars_1/static/css/main.c2a44f7a.chunk.css.map",
+    "static/js/2.5cbfb817.chunk.js.LICENSE.txt": "/mars_1/static/js/2.5cbfb817.chunk.js.LICENSE.txt",
+    "static/media/ACDC_-_Thunderstruck_OST_Iron_Man_2_34294139.cc5818af.mp3": "/mars_1/static/media/ACDC_-_Thunderstruck_OST_Iron_Man_2_34294139.cc5818af.mp3",
+    "static/media/Dabro_-_YUnost_69577931.408998e5.mp3": "/mars_1/static/media/Dabro_-_YUnost_69577931.408998e5.mp3",
+    "static/media/Do vstrechi.9dc9fbca.mp3": "/mars_1/static/media/Do vstrechi.9dc9fbca.mp3",
+    "static/media/Filatov_Karas_GAYAZOV_BROTHER_-_Poshla_zhara_72992182.21b92760.mp3": "/mars_1/static/media/Filatov_Karas_GAYAZOV_BROTHER_-_Poshla_zhara_72992182.21b92760.mp3",
+    "static/media/GAYAZOV_BROTHER_-_MALINOVAYA_LADA_73214200.f5c947f9.mp3": "/mars_1/static/media/GAYAZOV_BROTHER_-_MALINOVAYA_LADA_73214200.f5c947f9.mp3",
+    "static/media/Malyvka.1f821e4b.mp3": "/mars_1/static/media/Malyvka.1f821e4b.mp3",
+    "static/media/Mars2.1e7036fc.mp3": "/mars_1/static/media/Mars2.1e7036fc.mp3",
+    "static/media/NouOtvet.42370c31.mp3": "/mars_1/static/media/NouOtvet.42370c31.mp3",
+    "static/media/Transformiy.7fe2aca9.mp3": "/mars_1/static/media/Transformiy.7fe2aca9.mp3",
+    "static/media/prj_4609546_19e411f6dbded446139acd2c922727ba_1624449554 (1).7b324f2a.mp3": "/mars_1/static/media/prj_4609546_19e411f6dbded446139acd2c922727ba_1624449554 (1).7b324f2a.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b0e59d5.js",
+    "static/js/2.5cbfb817.chunk.js",
+    "static/css/main.c2a44f7a.chunk.css",
+    "static/js/main.977067d5.chunk.js"
+  ]
+}
