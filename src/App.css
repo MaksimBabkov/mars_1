@@ -1,0 +1,112 @@
+.Center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: flex-start;
+  width: auto;
+  height: 100vh;
+}
+
+
+.zemnoy-shar-vrashchay,
+.zemnoy-shar {
+  width: 200px;
+  height: 200px;  
+}
+.zemnoy-shar-vrashchay {
+  position: relative;  
+  display: inline-block;
+  margin: 30px;
+  transform: scale(1.1);
+}
+.zemnoy-shar {
+  position: relative;  
+  display: block;
+  margin: 0;
+  padding: 0;
+  top: 0;  
+  left: 0;
+}
+
+.zemnoy-shar {
+  cursor: pointer;
+}
+
+.zemnoy-shar-worldmap,
+.krugly-globus-front,
+.krugly-globus-back,
+.zemnoy-shar-sphere,
+.zemnoy-shar-outer-shadow,
+.vrashchay-ushchiysya {
+  position: absolute;  
+  display: block;  
+  margin: 0;  
+}
+.zemnoy-shar-sphere,
+.zemnoy-shar-outer-shadow,
+.vrashchay-ushchiysya {
+  left: 0;  
+  top: 0;  
+  width: 200px;  
+  height: 200px;
+  background-position: 0 0;  
+  background-repeat: no-repeat;
+}
+.zemnoy-shar-worldmap {
+  left: 0;  
+  top: 0;  
+  width: 200px;  
+  height: 200px;  
+  overflow: hidden;
+  border-radius: 50%;
+}
+.krugly-globus-front,
+.krugly-globus-back {
+  left: 0;  
+  top: 0;  
+  width: 1000px;  
+  height: 200px;  
+  overflow: visible;
+  background-color: #00000047;
+  background-image: url(http://zornet.ru/Abavaga/worldmap.svg);
+  background-repeat: no-repeat;
+}
+
+.zemnoy-shar-outer-shadow {  
+  left: 0;  
+  top: 186px;  
+  width: 200px;  
+  height: 30px;
+  background-image: url(http://zornet.ru/Abavaga/outer_shadow.svg);
+}
+.vrashchay-ushchiysya {  
+  background-image: url(http://zornet.ru/Abavaga/inner_shadow.svg);
+}
+
+.krugly-globus-front {  
+  background-position: 0px 0px;
+  animation: textureSpinreverse 8s linear infinite;
+}
+.krugly-globus-back {  
+  background-position: 0px -220px;
+  animation: textureSpin 8s linear infinite;
+}
+
+@keyframes textureSpin {
+  from {
+  transform: translateX(0);
+  }
+  to {
+  transform: translateX(-47.5%);
+  }
+}
+@keyframes textureSpinreverse {
+  from {
+  transform: translateX(-47.5%);
+  }
+  to {
+  transform: translateX(0);
+  }
+}
+
+
